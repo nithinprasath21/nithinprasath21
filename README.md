@@ -19,7 +19,7 @@
 <a href="https://twitter.com/nithinprasath21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nithinprasath21" height="30" width="40" /></a>
 <a href="https://fb.com/nithinprasath21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nithinprasath21" height="30" width="40" /></a>
 <a href="https://instagram.com/_._nithin__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._nithin__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ni7hin821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ni7hin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ni7hin821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ni7hin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
