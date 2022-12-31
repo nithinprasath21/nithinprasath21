@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithinprasath21&show_icons=true&locale=en" alt="nithinprasath21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithinprasath21&" alt="nithinprasath21" /></p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nithinprasath21.nithinprasath21)
