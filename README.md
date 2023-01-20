@@ -2,7 +2,7 @@
 <h3 align="center">A resilient frontend developer ambitious to learn programming...</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Weather Forecast Website, much more**
+- 🔭 I’m currently working on **Weather Analysis Website, much more**
 
 - 🌱 I’m currently learning **ReactJS**
 
