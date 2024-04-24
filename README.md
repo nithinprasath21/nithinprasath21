@@ -19,7 +19,6 @@
 <a href="https://twitter.com/nithinprasath21" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="nithinprasath21" height="30" width="40" /></a>
 <a href="https://fb.com/nithinprasath21" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="nithinprasath21" height="30" width="40" /></a>
 <a href="https://instagram.com/_._nithin__" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="_._nithin__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ni7hin821" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="ni7hin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
